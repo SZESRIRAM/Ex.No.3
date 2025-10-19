@@ -19,6 +19,9 @@ Procedure:
 4. Missing Word Prompting:
    •	"The capital of France is ____."
   •	"In photosynthesis, plants absorb sunlight to produce ____."
+## Output 
+![image alt](https://github.com/SZESRIRAM/Ex.No.3/blob/main/EXP%203%20Page%201.jpg?raw=true)
+![image alt](https://github.com/SZESRIRAM/Ex.No.3/blob/main/EXP%203%20Page%202.jpg?raw=true)
 
 
 ### Conclusion 
